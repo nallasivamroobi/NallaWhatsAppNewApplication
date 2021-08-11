@@ -2,3 +2,6 @@
 2.Audio chat
 3.Video chat
 4.Searching 
+5.auto search option
+6. Hiding the phone no. for the new user.
+7. Music can be set for messages and calls
