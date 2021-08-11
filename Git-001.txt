@@ -1,4 +1,8 @@
 1: Chat in text
 2.Audio chat
 3.Video chat
-4.Searching 
+4.Searching
+S5. Add current news broadcastor.
+S6. Add menu for language selection
+S7. People will happy on seeing their mother language.
+S8  Kepp Google search button, for better searching
