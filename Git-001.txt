@@ -5,7 +5,10 @@
 5.auto search option
 6. Hiding the phone no. for the new user.
 7. Music can be set for messages and calls8999966666
-S5. Add current news broadcastor.
-S6. Add menu for language selection
-S7. People will happy on seeing their mother language.
-S8  Kepp Google search button, for better searching
+8. Add current news broadcastor.
+9. Add menu for language selection
+10.People will happy on seeing their mother language.
+11.Kepp Google search button, for better searching
+12.Video status can added for the user benefit.
+13. Document files can be attached upto 1 GB.
+14. Maximumlength of video status be 2.50 Minutes.
