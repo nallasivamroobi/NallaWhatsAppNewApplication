@@ -1,7 +1,10 @@
 1: Chat in text
 2.Audio chat
 3.Video chat
-4.Searching
+4.Searching 
+5.auto search option
+6. Hiding the phone no. for the new user.
+7. Music can be set for messages and calls8999966666
 S5. Add current news broadcastor.
 S6. Add menu for language selection
 S7. People will happy on seeing their mother language.
